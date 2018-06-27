@@ -1,0 +1,3 @@
+cd C:\Users\praveen94\Desktop\CountingDice
+Format: python dice.py <image.png>
+Example: python dice.py dice1.png
